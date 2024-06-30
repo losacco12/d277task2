@@ -1,0 +1,40 @@
+* {font-family:Arial, Helvetica, sans-serif;}
+html{background-color: rgb(206, 255, 202) ;}
+section{float:left; max-width: 70%;}
+caption {font-size: 8pt;}
+h1{color:midnightblue ; text-decoration: underline; position:relative;left: 200px;font-size: 40pt;}
+nav{position: relative; left:19%; max-width: fit-content;border:1px solid darkgray;}
+form{position: relative; left:25%; max-width: fit-content;margin: 10pt; border:1pt solid gray; padding:5px}
+aside{position:relative;width:25% ; min-width:fit-content; height: 1400px; float:right; border: 2pt solid black;padding:2px; margin: 1px; align-self:last baseline; word-wrap: break-word;}
+h2{text-decoration: underline;}
+h3{text-decoration:underline}
+td{border: 1px solid black;}
+th{border: 1px solid black;}
+footer{margin-top: 100px; color:rgb(109, 109, 109);}
+
+#footdiv{width: 100%; word-wrap: break-word;}
+#spage{position: relative; left: 40%;}
+#sourcespace1{position:absolute;top: 1200px;}
+#sourcespace2{position:absolute;top: 1000px;}
+#sourcespace3{position:absolute;top: 800px;}
+#sourcespace4{position:absolute;top: 800px;}
+#sourcespace5{position:absolute;top: 350px;}
+#sourcespace6{position:absolute;top: 600px;}
+#images{position:relative;left:20%; font-size: x-small;}
+#images2{position: relative; font-size: x-small; width:100%}
+#imgflr{position:relative; float:right; margin-bottom: 15px; width:250px}
+#imgfll{position:relative; float:left; width: 250px; margin-bottom: 15px;}
+#pbor{position:relative; clear:both;}
+#footb{border: 3pt solid darkslategrey;padding-right: 1pt;margin-bottom: 3pt;}
+
+
+.containers{display:flex; flex-direction: column; max-height: 1400px;}
+.container{display:flex; flex-direction:column; align-items:flex-end;}
+.table{border:1px solid black;}
+.marg{margin: 10px;}
+.bo{font-weight: bold;}
+.pagelink{width: 100px;float:inline-start;}
+.navborder{border: 1px solid darkgray;min-width: fit-content; min-height: fit-content;}
+
+#bc{background-color:lightgrey;}
+#bc:hover{background-color:rgb(80, 0, 40);}
